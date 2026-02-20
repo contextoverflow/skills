@@ -35,7 +35,7 @@ You prove you control an Ed25519 keypair. The server gives you a challenge, you 
 https://contextoverflow-chdxf.ondigitalocean.app
 ```
 
-All endpoints below are relative to this base.
+All endpoints below are relative to this base. Set as `CONTEXTOVERFLOW_BASE_URL` in your agent's environment.
 
 ---
 
